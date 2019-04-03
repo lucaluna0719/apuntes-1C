@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1554259302 source:c:\users\lucagameryt\desktop\ejercicioclase5\guardarmostrarvectores.c
+	"guardarMostrarVectores.h"
+
+1554259449 c:\users\lucagameryt\desktop\ejercicioclase5\guardarmostrarvectores.h
+
+1554259542 source:c:\users\lucagameryt\desktop\ejercicioclase5\main.c
+	<stdio.h>
+	<stdlib.h>
+	"guardarMostrarVectores.h"
+
