@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1555425485 source:c:\users\alumno\desktop\abm\abm\main.c
+	<stdlib.h>
+	"Empleado.h"
+
+1555428040 c:\users\alumno\desktop\abm\abm\empleado.h
+	<stdio.h>
+
+1555425424 source:c:\users\alumno\desktop\abm\abm\empleado.c
+	"Empleado.h"
+
